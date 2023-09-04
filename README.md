@@ -189,3 +189,4 @@ Tabella ponte todo_tag:
 Quindi troviamo un collegamento uno a molti tra users  e todos. Stessa coaa tra users e tags. Abbiamo invece un collegamento molti a molti tra todos e tags tramite todo_tag
 # TodoWave
 # TodoWave
+# TodoWave
